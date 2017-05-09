@@ -1,0 +1,5 @@
+var method={};
+method.updateServer=function(){
+
+  console.log("im insside server")
+};exports.data=method;
